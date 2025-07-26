@@ -5,4 +5,5 @@ This is demo project to test the some git control commands
 <br>
 # configuring to git bash
 git config-global user.name "My name"
+<br>
 git config-global user.email "My email"
